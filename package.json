@@ -1,0 +1,14 @@
+{
+  "name": "wcaquino",
+  "version": "1.0.0",
+  "description": "Teste automatizado wcaquino preenchimento do formulário de cadastro",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Marcelino Feliciano de Sousa",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  }
+}
