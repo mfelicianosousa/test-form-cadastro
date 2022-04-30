@@ -1,0 +1,9 @@
+Your unique project ID allows us to connect your project to this organization. 
+Insert the key below into your cypress.json file to get started.
+{
+    "projectId": "wv46x7"
+}
+
+Run the command below to start recording your tests!
+
+npx cypress run --record --key 79eb1dff-c5f8-4e5a-88cb-412410c64805
